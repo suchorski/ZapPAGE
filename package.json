@@ -1,6 +1,6 @@
 {
   "name": "zapbot",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -11,9 +11,11 @@
     "@hcaptcha/vue-hcaptcha": "^0.3.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
+    "vue-google-adsense": "^1.10.1",
     "vue-gtag": "^1.16.1",
     "vue-moment": "^4.1.0",
     "vue-router": "^3.5.2",
+    "vue-script2": "^2.1.0",
     "vuetify": "^2.4.0",
     "vuex": "^3.6.2"
   },
