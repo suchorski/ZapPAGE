@@ -16,6 +16,7 @@
       <v-col class="mb-5" cols="12" lg="9" offset-lg="3">
         <h2 class="headline font-weight-bold mb-3">Sua sua guilda para um novo patamar!</h2>
         <p>As guildas podem ter mais recursos ao invés de serem usadas apenas para conversa. Membros necessitam de entreterimento e moderação, ou até mesmo, diversão. Agilize a moderação, tenha estatísticas e divirta-se na sua guilda com as diversas funções existentes.</p>
+        <p>Diversos recursos estão disponíveis como: <span class="font-weight-bold">destaque para os aniversariantes, perfis exclusivos, cargos para os mais falantes, auto reaçoes, jogos de azar, avisos de novos vídeos e muito mais.</span></p>
       </v-col>
       <v-col cols="12">
         <v-alert border="left" color="blue" class="text-h4 text-center white--text">Deixe a sua guilda como nunca antes vista!</v-alert>
